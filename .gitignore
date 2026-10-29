@@ -53,3 +53,8 @@ backend/prisma/migrations/dev.db-journal
 *.swo
 .DS_Store
 Thumbs.db
+
+
+# Agents
+.agents/
+agents/
